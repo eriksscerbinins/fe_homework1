@@ -1,0 +1,39 @@
+h1{
+    text-align: center; color: blue;
+}
+
+.hobby{
+    border: 2px solid rgb(38, 5, 67);
+    background-color: rgb(105, 105, 159);
+    padding: 20px;
+}
+
+.hobby img, .work img, .friends img{
+    width: 300px;
+}
+
+.hobby p, .work p, .friends p{
+    font-size: 20px;
+}
+
+.work{
+    border: 2px solid rgb(57, 56, 56);
+    background-color: rgb(82, 98, 98);
+    padding: 20px;
+}
+
+.friends{
+    border: 2px solid rgb(28, 94, 28);
+    background-color: rgb(141, 186, 171);
+    padding: 20px;
+}
+
+.links{
+    border: 2px solid black;
+    padding: 20px;
+
+}
+
+.links img{
+    width: 30px;
+}
